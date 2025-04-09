@@ -1,3 +1,5 @@
 # Data Structures Algorithms 
 
-Implementation of Data Structure Algorithms. Still in progress.
+Implementation of Data Structure Algorithms. All problems are separated into folders.
+
+Still in progress.
